@@ -1,6 +1,6 @@
 # 3 Different ways to make HTTP Requests in PHP
 
-This repo use Amadeus Self-Service API as examples to show how to make HTTP Requests in PHP.
+This repo uses some Amadeus Self-Service APIs as examples to show how to make HTTP Requests in PHP.
 
 The APIs used in this repo are:
 - **POST** [Access Granted Client Credentials](https://documenter.getpostman.com/view/2672636/RWEcPfuJ#f85a162b-a405-baed-cf93-d831bdde2342)
@@ -16,10 +16,10 @@ The ways to make HTTP Requests used in this repo are:
 ```
 composer install
 ```
-2. Edit ```.env``` file and Replace the ```API_ID``` AND ```API_SECRET``` by your Amadeus API ID and Secret.
+2. Edit ```.env``` file and Replace the ```API_ID``` AND ```API_SECRET``` by your Amadeus API ID and Secret. You can register your own account on https://developers.amadeus.com/
 ```
 API_ID = REPLACE_BY_YOUR_ID
 API_SECRET = REPLACE_BY_YOUR_SECRET
 ```
 
-### Pay attention to see try different outputs, have fun :)
+### Pay attention to see and try different outputs, have fun :)
